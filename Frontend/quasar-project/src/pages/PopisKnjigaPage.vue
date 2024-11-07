@@ -1,4 +1,5 @@
 <template>
+
   <div class="popis-knjiga-page">
     <q-table
       :rows="books"
